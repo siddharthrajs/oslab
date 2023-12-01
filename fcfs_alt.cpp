@@ -10,8 +10,8 @@ void waitingTime(int at[], int bt[], int n) {
     for (int i = 1; i < n; i++) {
 
         wt[i] = wt[i-1] + at[i-1] + bt[i-1] - at[i];
-kkkkCHONNI SO
-    }I
+
+    }
 
     cout << "Waiting time" << endl;
 
