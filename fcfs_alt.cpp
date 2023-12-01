@@ -5,7 +5,7 @@ void waitingTime(int at[], int bt[], int n) {
 
     int wt[n];
 
-    wt[0] = 0;`
+    wt[0] = 0;
 
     for (int i = 1; i < n; i++) {
 
